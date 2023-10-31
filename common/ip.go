@@ -5,6 +5,7 @@ import (
 	"math/rand"
 	"net"
 	"time"
+	"os"
 )
 
 // 使用真实有效的美国ip
